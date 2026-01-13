@@ -1,5 +1,5 @@
 # Speciali\Riempi cartelle “Cavaliere Nero” ✨ 🇮🇹
-[https://federicoboccaccio.wordpress.com/life/](https://federicoboccaccio.wordpress.com/riempi-cartelle-cavaliere-nero/)
+https://federicoboccaccio.wordpress.com/riempi-cartelle-cavaliere-nero/
 
 # Importante
 ⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub e **non contengono il programma**.  
